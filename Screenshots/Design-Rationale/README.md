@@ -1,4 +1,3 @@
-Design rationale files
 # Design Rationale – Glow Salon Website Redesign
 
 ## Target Audience
