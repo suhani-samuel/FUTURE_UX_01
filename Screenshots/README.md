@@ -51,10 +51,11 @@ The goal of this redesign was to improve:
 - Mobile layout improves accessibility for mobile users
 
 ---
+## 🔗 Figma Design File
+https://www.figma.com/design/Wnb9LWrRKs6LLTDWNWME2y/Service-Detail-Page?node-id=0-1&p=f&t=ukPvzKLI9Hc4gz1X-0
 
 ## Prototype Link
 https://www.figma.com/proto/Wnb9LWrRKs6LLTDWNWME2y/Service-Detail-Page?node-id=1-2&starting-point-node-id=1%3A2
-
 ---
 
 ## Created By
